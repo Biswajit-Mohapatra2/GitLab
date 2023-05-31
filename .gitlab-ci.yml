@@ -32,6 +32,8 @@ deploy-job:      # This job runs in the deploy stage.
 
 
 ################################################### Example 2 ########################################################
+
+
 variables:
   IMAGE_NAME: biswajitmohapatra22/demo-app
   IMAGE_TAG: python-app-1.0
