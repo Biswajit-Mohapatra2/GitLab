@@ -1,6 +1,14 @@
 # GitLab
 
-# Python-Application - CI/CD with GitLab
+# Python Flask - Demo Web Application CI/CD with GitLab
+
+This is a simple Python Flask web application. The app provides system information and a realtime monitoring screen with dials showing CPU, memory, IO and process information.
+
+The app has been designed with cloud native demos & containers in mind, in order to provide a real working application for deployment, something more than "hello-world" but with the minimum of pre-reqs. It is not intended as a complete example of a fully functioning architecture or complex software design.
+
+## ScreenShot
+
+![gitlab-cicd](https://user-content.gitlab-static.net/6f581c4c2e4c645ab4523bd3661204bcddf53979/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f31343938323933362f33303533333137312d64623137666363632d396334662d313165372d383836322d6562386331343866656465612e706e67)
 
 This repository contains the source code and configuration for implementing Continuous Integration and Continuous Deployment (CI/CD) using GitLab.
 
